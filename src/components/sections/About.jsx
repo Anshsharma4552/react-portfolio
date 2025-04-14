@@ -95,7 +95,9 @@ export const About = () => {
                         <h3 className="text-xl font-bold mb-4">💼 Work Experience</h3>
                         <div className="space-y-4 text-gray-300">
                             <div>
-                                <p className="italic text-gray-400">Work experience details here when available.</p>
+                                <p className="italic text-gray-400">Third Place – Gen AI Hackathon
+                                    Secured 3rd position out of 25+ teams in our college fest's Gen AI Hackathon.
+                                    Built an AI-based solution and won a prize of ₹14,000 with a collaborative team effort.</p>
                             </div>
                         </div>
                     </div>
