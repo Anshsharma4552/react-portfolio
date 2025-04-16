@@ -2,7 +2,7 @@ import { useRef } from "react"
 import { RevealOnScroll } from "../RevealOnScroll"
 export const About = () => {
     const about = useRef(null)
-    const frontendSkills = ["Html", "Css", "Javascript", "React", "TailwindCss"]
+    const frontendSkills = ["Html", "Css", "Javascript", "React", "TailwindCss","Three JS"]
     const backendSkills = ["Python"]
     
     return <section ref={about} id="about" className="min-h-screen flex items-center justify-center py-20">
