@@ -95,10 +95,38 @@ export const About = () => {
                         <h3 className="text-xl font-bold mb-4">💼 Work Experience</h3>
                         <div className="space-y-4 text-gray-300">
                             <div>
-                                <p className="italic text-gray-400">Third Place – Gen AI Hackathon
+                                <p className="italic text-gray-400"> Frontend Development Intern – WebsJyoti (June–July 2025)
+                                    Selected for a 2-month internship at WebsJyoti, where I will enhance my frontend development skills through hands-on experience and guided learning with real-world web projects under the mentorship of industry professionals.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
+                        <h3 className="text-xl font-bold mb-4">🏆 Achivements</h3>
+                        <div>
+                        <ul className=" list-inside text-gray-300 space-y-2 list-none">
+                            <li>
+                                <p className="italic text-gray-400">1. Third Place – Gen AI Hackathon
                                     Secured 3rd position out of 25+ teams in our college fest's Gen AI Hackathon.
                                     Built an AI-based solution and won a prize of ₹14,000 with a collaborative team effort.</p>
-                            </div>
+                            </li>
+                            <li>
+                                <p className="italic text-gray-400">2. 🏆 1st Place (Coding) | 4th Overall – Lex Hack 1.0
+                                Built an AI-powered legal-tech platform simplifying legal processes with features like multilingual chatbot, document analyzer/generator, legality checker, and verdict predictor.</p>
+                            </li>
+                        </ul>
+                        </div>
+                    </div>
+                    <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
+                        <h3 className="text-xl font-bold mb-4">Interests</h3>
+                        <div>
+                        <ul className="list-inside text-gray-300 space-y-2 list-none">
+                            <li>💻 Frontend Development & UI/UX Design.</li>
+                            <li>✨Web Animations & Interactive Interfaces.</li>
+                            <li>🤖 Artificial Intelligence in Web Applications.</li>
+                            <li>🌐 Open Source Contributions & Hackathons.</li>
+                            <li>💰Stock Market Analysis & Crypto Trading.</li>
+                        </ul>
                         </div>
                     </div>
                 </div>
