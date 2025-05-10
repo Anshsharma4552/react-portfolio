@@ -25,7 +25,7 @@ export const Home = () => {
                         Hi, I'm Ansh Sharma
                     </h1>
                     <p className="text-gray-400 text-lg mb-8 max-w-lg mx-auto md:mx-0">
-                    "Passionate web developer with expertise in building responsive, dynamic, and visually engaging websites. Skilled in HTML, CSS, JavaScript, React, Tailwind CSS, and modern web technologies to create seamless user experiences. Currently learning Data Structures and Algorithms (DSA) in Python. Dedicated to delivering high-quality, efficient, and innovative web solutions, while always eager to learn new tech stacks and stay updated with the latest industry trends."
+                    "Passionate web developer with expertise in building responsive, dynamic, and visually engaging websites. Skilled in HTML, CSS, JavaScript, React, Tailwind CSS, Three.js, and modern web technologies to create seamless user experiences. Currently learning Data Structures and Algorithms (DSA) in Python. Dedicated to delivering high-quality, efficient, and innovative web solutions, while always eager to learn new tech stacks and stay updated with the latest industry trends."
                     </p>
                     <div className="flex justify-center md:justify-start space-x-4">
                         <a href="#projects" className="bg-blue-500 text-white py-3 px-6 rounded font-medium transition relative overflow-hidden hover:-translate-y-0.5 hover:shadow-[0_0_15px_rgba(59,130,246,0.4)]">
